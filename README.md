@@ -94,9 +94,3 @@ After the processing is complete, all sorted output will be saved inside a new f
 Got questions or just want to say hello? Feel free to reach out to me on Telegram: [@martinversa](https://t.me/martinversa)
 
 -----
-
-## 🔗 GitHub Repository
-
-You can find the project repository here: [https://github.com/martinversacode/filter-email](https://github.com/martinversacode/filter-email)
-
------
