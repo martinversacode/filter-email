@@ -1,5 +1,3 @@
------
-
 # 📧 Email Domain Filter Tool by Martin Versa
 
 **Ever found yourself overwhelmed with a messy list of emails?** The Email Domain Filter Tool is here to help you effortlessly classify and sort emails by domain and country\! This **Command Line Interface (CLI)** tool is built for efficiency and ease of use, giving you back control over your email data.
